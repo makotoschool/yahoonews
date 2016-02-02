@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.clearfix:after{
+	content:".";
+	display:block;
+	height:0px;
+	clear:both;
+	visibility:hidden;
+}
+
+.clear{
+	clear:both;
+}
+
